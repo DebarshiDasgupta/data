@@ -9,12 +9,12 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "2\n"
+      "hello\n"
      ]
     }
    ],
    "source": [
-    "print(2)"
+    "print(\"hello\")"
    ]
   },
   {
@@ -22,9 +22,7 @@
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": [
-    "print(6)"
-   ]
+   "source": []
   }
  ],
  "metadata": {
